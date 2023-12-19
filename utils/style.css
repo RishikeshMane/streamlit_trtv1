@@ -1,0 +1,18 @@
+/* custom styling of streamlit components */
+/* just an example here */
+
+/* hr {
+    margin-top: 1em;
+    margin-bottom: 1em;
+} */
+
+/* [data-testid="stSidebar"] [data-testid="stImage"] {
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10px;
+} */
+[data-testid="sttitle"] {
+    color: linear-gradient(90deg, rgb(0, 102, 204), rgb(102, 255, 255));
+}
